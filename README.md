@@ -7,13 +7,13 @@ I am passionate about learning how things work under the hood and creating effic
 - 💡 Interested in code optimization, software/game development, and OS & System optimization.
 - 🏎️ Big fan of sports cars.
 - 🎯 My goal: To contribute to the world by building and sharing great solutions 😊
-"Always do your best. What you plant now, you will harvest tomorrow" 👌
+  > "Always do your best. What you plant now, you will harvest tomorrow" 👌
 
 ### 🛠️ Technologies & Tools:
 
 **What I know:**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python_(Basic)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
+![Python](https://img.shields.io/badge/Python_(Basic)-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
 ![SQL](https://img.shields.io/badge/SQL_(Basic)-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Currently learning:**
