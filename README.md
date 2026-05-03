@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Jorge
 
-**3rd-cycle Software Engineering Student** 💻
-
 I am passionate about learning how things work under the hood and creating efficient software. 
 
 ### 🚀 About me:
@@ -21,5 +19,3 @@ I am passionate about learning how things work under the hood and creating effic
 **Currently learning:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 📊 GitHub Stats:
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleDev1090&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
