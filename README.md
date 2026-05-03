@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Jorge
 
-<!--
-**AleDev1090/AleDev1090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**3rd-cycle Software Engineering Student** 💻
 
-Here are some ideas to get you started:
+I am passionate about learning how things work under the hood and creating efficient software. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About me:
+- 🎓 I'm currently in my 3rd cycle of Software Engineering.
+- 💡 Interested in code optimization, software/game development, and hardware optimization.
+- 🏎️ Big fan of sports cars.
+- 🎯 My goal: To contribute to the world by building and sharing great solutions 😊
+"Always do your best. What you plant now, you will harvest tomorrow" 👌
+
+### 🛠️ Technologies & Tools:
+
+**What I know:**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python_(Basic)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_(Basic)-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Currently learning:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 📊 GitHub Stats:
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleDev1090&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
