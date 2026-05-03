@@ -6,7 +6,7 @@ I am passionate about learning how things work under the hood and creating effic
 
 ### 🚀 About me:
 - 🎓 I'm currently in my 3rd cycle of Software Engineering.
-- 💡 Interested in code optimization, software/game development, and hardware optimization.
+- 💡 Interested in code optimization, software/game development, and OS & System optimization.
 - 🏎️ Big fan of sports cars.
 - 🎯 My goal: To contribute to the world by building and sharing great solutions 😊
 "Always do your best. What you plant now, you will harvest tomorrow" 👌
